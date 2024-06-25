@@ -4,7 +4,7 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = "postgres://postgres:8930@localhost:5432/sheet"
+  url      = "postgres://avnadmin:AVNS_fxvxXV0WgGAcgXZGYbL@pg-5410e85-mittalkanu315-b8e0.l.aivencloud.com:20917/defaultdb?sslmode=require"
 }
 
 model row {
